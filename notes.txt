@@ -1,0 +1,5 @@
+
+To Do:
+- when calculating the fitness -> consider distance to ball when ball goes out of bound
+- save and load model functionality
+
